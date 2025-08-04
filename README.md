@@ -1,8 +1,9 @@
-# 🚀 Alpaca Trading Bot
+# 🤑 Alpaca Trading Bot 🤑
 
-A Python trading bot for $TSLA using the Alpaca API.
+A Python trading bot for TSLA using the Alpaca API. It runs automatically (every 30minutes for example) and checks the price of TESLA whether to BUY or NOT, if 
+we have bought, then it checks to close on TP or SL (based on the % I have selected on oython script)
 
-### ⚙️ Features
+###  Features
 - Momentum-based buy signals
 - Configurable TP, SL, and risk settings
 - Base capital protection
